@@ -44,3 +44,7 @@ Phase 6: Refinement and Scaling: Incorporate user feedback, optimize performance
 
 The Task Manager Web Application project is dedicated to simplifying task management for users, providing them with the tools they need to stay organized and productive. With a user-centric design and a focus on essential features, we aim to create a valuable web application that helps individuals and professionals effectively manage their tasks and achieve their goals. Through careful planning, development, and refinement, we are committed to delivering a high-quality product that addresses the evolving needs of our users.
 
+
+FLOWCHART 
+![image](https://github.com/Linssssssss/alx_capstone_project/assets/99273313/e639ef7e-e1fd-4170-a4d8-911863947ea6)
+
