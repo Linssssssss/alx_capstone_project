@@ -1,55 +1,24 @@
-PROJECT OVERVIEW: TASK MANAGER WEB APPLICATION
+PROJECT OVERVIEW 
+The Portfolio Website is a personal website project designed to serve as an online showcase of my work, skills and experiences. Its primary pupose is to provide a centralized platform for potentials employers, clients and visitors to learn more about me my background and the projects I've undertaken. The main goal of this project is to create a visually appealing and informative digital space that presents my portfolio in a professional and engaging manner enabling me to stand out in the competitive fields of web development and design. By doing so, it aims to solve the problem of effectively conveying my skils and capabilities to a diverse audience while also demonstrating my commitment to high-quality web design.
 
-1. Introduction
-   In a world where productivity and time management are essential, the Task Manager Web application is designed to empower users to efficiently manage their tasks and to-do-lists. This project aims to deliver a user-friendly and feature-rich web application that simplifies task organization, enhances productivity, and improves overall time management.
-2. Project Goals
-   The pprimary opbjectives of the Task Manager Web Application project are as follows:
-3. Streamlined Task Management : Provide users with an intuitive platform to create, edit, prioritize, and mark tasks are completed.
-4. Efficient Task Organization: Implement features for categorizing and filtering tasks by category or date, making it easier to stay organized.
-5. User-Centric Design: Develop a responsive and visually appealing web application that offers a seamless user experience across various devices
-6. Enhanced productivity: Facilitate effective task management to boost users' productivity and help them achieve their goals.
+Features and Functionality
+1. Portfolio display: The website showcases a selection of my best projects, complete with project descriptions, images and links to projects details or live demos.
+2. About Me Section: Users can learn more about me, my background, and my professional journey. This section also includes my skills and areas of expertise.
+3. Contact Information : Visitors can easily get in touch with me via a contact form with me via a contact form or through provided social media links.
+4. Blog or News Section (Optional): An integrated blog section keeps visitors informed about my latest activities, projects and insights.
+5. Responsive Design: The website is designed to be responsive, ensuring a seamless user experience on various devices and screen sizes.
 
-7. Key Features
-   Task Creation : Users can easily create new tasks assign due dates, and specify task details.
+Technoligies Used
+HTML5: For structuring web pages.
+CSS3: For styling and layout.
+JavaScript: For interactivity and dynamic features.
+Github: For version control and hosting the codebase.
+Netlify: For website hosting
 
-Task Editing: The ability to edit task as completed, providing a sense of accomplishment.
-Task Categorization: Tasks can be categorized into different categories e.g work, personal, school for better organization.
-Filtering and sorting: Users can filter tasks based on categories, due dates or completion status for quick access.
-User Authentication: Secure user accounts with authentication and authorization mechanisms.
-Responsive Design Ensure a consistent and user-friendly experience on various screen sizes and devices.
+Name: Linsey Wanjiku
+Email: wanjikulinsey@gmail.com
+LinkedIn: https://www.linkedin.com/in/linsey-wanjiku-6596b2232/
+Github: https://github.com/Linssssssss
+Portfolio: https://linseywanjiku.netlify.app/
 
-4. Target Audience
-   Individuals: People looking for a simple and effective tool to manage their personal tasks and to-do lists.
-   Professionals: Business professionals seeking a web-based task manager to enhance productivity in the workplace.
-   Students: Students juggling coursework, assignments and extracurricular activities.
-   Freelancers: Freelancers managing projects and deadlines.
-
-5. Project Phases
-   The developement of the Task Manager Web Application will follow these phases:
-   e development of the Task Manager Web Application will follow these phases:
-
-Phase 1: Planning and Requirements Gathering: Define project scope, user requirements, and technical specifications.
-
-Phase 2: Design and Prototyping: Create wireframes and design mockups for the user interface.
-
-Phase 3: Development: Build the core application, implement features, and ensure data security.
-
-Phase 4: Testing: Rigorously test the application for functionality, usability, and security.
-
-Phase 5: Deployment: Launch the web application, initially as a beta version for user feedback.
-
-Phase 6: Refinement and Scaling: Incorporate user feedback, optimize performance, and scale the infrastructure as needed.
-
-6. Conclusion
-
-The Task Manager Web Application project is dedicated to simplifying task management for users, providing them with the tools they need to stay organized and productive. With a user-centric design and a focus on essential features, we aim to create a valuable web application that helps individuals and professionals effectively manage their tasks and achieve their goals. Through careful planning, development, and refinement, we are committed to delivering a high-quality product that addresses the evolving needs of our users.
-
-FLOWCHART 
-
-
-
-
-
-
-![image](https://github.com/Linssssssss/alx_capstone_project/assets/99273313/e639ef7e-e1fd-4170-a4d8-911863947ea6)
-
+By visiting the website, you can learn more about me and my work, and I look forward to connecting with you!
