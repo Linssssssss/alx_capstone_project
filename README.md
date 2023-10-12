@@ -8,6 +8,10 @@ Features and Functionality
 4. Blog or News Section (Optional): An integrated blog section keeps visitors informed about my latest activities, projects and insights.
 5. Responsive Design: The website is designed to be responsive, ensuring a seamless user experience on various devices and screen sizes.
 
+FLOWCHART
+![flowchart](https://github.com/Linssssssss/alx_capstone_project/assets/99273313/73666f48-bb84-4445-b769-7df63b4a3442)
+
+
 Technoligies Used
 HTML5: For structuring web pages.
 CSS3: For styling and layout.
