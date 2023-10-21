@@ -1,12 +1,12 @@
 PROJECT OVERVIEW 
-The Portfolio Website is a personal website project designed to serve as an online showcase of my work, skills and experiences. Its primary pupose is to provide a centralized platform for potentials employers, clients and visitors to learn more about me my background and the projects I've undertaken. The main goal of this project is to create a visually appealing and informative digital space that presents my portfolio in a professional and engaging manner enabling me to stand out in the competitive fields of web development and design. By doing so, it aims to solve the problem of effectively conveying my skils and capabilities to a diverse audience while also demonstrating my commitment to high-quality web design.
+
+The Portfolio Website is a personal website project designed to serve as an online showcase of my work, skills and experiences. Its primary pupose is to provide a centralized platform for potential employers, clients and visitors to learn more about me my background and the projects I've undertaken. The main goal of this project is to create a visually appealing and informative digital space that presents my portfolio in a professional and engaging manner enabling me to stand out in the competitive fields of web development and design. By doing so, it aims to solve the problem of effectively conveying my skils and capabilities to a diverse audience while also demonstrating my commitment to high-quality web design.
 
 Features and Functionality
 1. Portfolio display: The website showcases a selection of my best projects, complete with project descriptions, images and links to projects details or live demos.
 2. About Me Section: Users can learn more about me, my background, and my professional journey. This section also includes my skills and areas of expertise.
-3. Contact Information : Visitors can easily get in touch with me via a contact form with me via a contact form or through provided social media links.
-4. Blog or News Section (Optional): An integrated blog section keeps visitors informed about my latest activities, projects and insights.
-5. Responsive Design: The website is designed to be responsive, ensuring a seamless user experience on various devices and screen sizes.
+3. Contact Information : Visitors can easily get in touch with me via a contact form or through provided social media links.
+4. Responsive Design: The website is designed to be responsive, ensuring a seamless user experience on various devices and screen sizes.
 
 FLOWCHART
 ![flowchart](https://github.com/Linssssssss/alx_capstone_project/assets/99273313/73666f48-bb84-4445-b769-7df63b4a3442)
